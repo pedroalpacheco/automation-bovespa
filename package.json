@@ -1,0 +1,23 @@
+{
+  "name": "automation-bovespa",
+  "version": "1.0.0",
+  "description": "Aula de Projeto prático com automação de extração de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/automation-bovespa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/automation-bovespa/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/automation-bovespa#readme",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
+}
